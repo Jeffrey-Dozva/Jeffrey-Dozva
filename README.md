@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jeffrey-Dozva
+👋 Hi! I'm Jeffrey Dozva, a Software Engineer currently working out of Nairobi.
 - 👀 I’m interested in React Native, Android and iOS development. Basically i am a big fan of mobile.
 - 🌱 I’m currently deepening my skills in native app development
 - 💞️ I’m looking to collaborate on more open source projects in the mobile app development industry 
